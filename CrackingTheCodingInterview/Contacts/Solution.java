@@ -1,8 +1,4 @@
-import java.io.*;
 import java.util.*;
-import java.text.*;
-import java.math.*;
-import java.util.regex.*;
 
 public class Solution {
   private TrieNode root = new TrieNode();
@@ -12,11 +8,11 @@ public class Solution {
   }
 
   private int findInTrie(TrieNode root, String partial, int index) {
-    if (index >= name.length()) {
+    if (index >= partial.length()) {
       return root.count;
     }
 
-    char c = name.charAt(index);
+    char c = partial.charAt(index);
     TrieNode child = root.children.get(c);
     if (child == null) {
       return 0;
