@@ -1,6 +1,6 @@
 # Richie Rich
 
-[Source]()
+[Source](https://www.hackerrank.com/challenges/richie-rich)
 
 Sandy likes palindromes. A palindrome is a word, phrase, number, or other sequence of characters which reads the same backward as it does forward. For example, madam is a palindrome.
 

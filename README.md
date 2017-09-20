@@ -1,6 +1,7 @@
 ## Strings
 - Making Anagrams
 - Richie Rich
+- Sherlock and Valid String
 
 ## Hash Tables
 - Ransom Note
