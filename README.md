@@ -2,6 +2,7 @@
 - Making Anagrams
 - Richie Rich
 - Sherlock and Valid String
+- Sherlock and Anagrams
 
 ## Hash Tables
 - Ransom Note
