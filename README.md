@@ -9,6 +9,7 @@
 
 ## Sorting
 - Fraudulent Activity Notifications
+- - Lily's Homework
 
 ## Linked Lists and Stacks
 - Detect a Cycle
