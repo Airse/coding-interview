@@ -22,3 +22,6 @@
 
 ## Bit Manipulation
 - Lonely Integer
+
+## Other
+- Primality
