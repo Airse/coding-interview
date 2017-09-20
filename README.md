@@ -7,6 +7,9 @@
 ## Hash Tables
 - Ransom Note
 
+## Sorting
+- Fraudulent Activity Notifications
+
 ## Linked Lists and Stacks
 - Detect a Cycle
 - Balanced Brackets
