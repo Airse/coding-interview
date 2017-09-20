@@ -1,5 +1,6 @@
 ## Strings
 - Making Anagrams
+- Richie Rich
 
 ## Hash Tables
 - Ransom Note
