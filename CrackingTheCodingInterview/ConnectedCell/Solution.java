@@ -59,6 +59,8 @@ public class Solution {
     }
 
     System.out.println(maxRegionSize);
+
+    in.close();
   }
 }
 

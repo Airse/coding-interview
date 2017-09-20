@@ -18,5 +18,7 @@ public class Solution {
       a[a_i] = in.nextInt();
     }
     System.out.println(getLonelyInteger(a));
+
+    in.close();
   }
 }

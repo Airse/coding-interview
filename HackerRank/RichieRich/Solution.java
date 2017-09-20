@@ -59,5 +59,7 @@ public class Solution {
     String s = in.next();
     String result = richieRich(s, n, k);
     System.out.println(result);
+
+    in.close();
   }
 }
