@@ -30,6 +30,7 @@
 ## Recursion and Dynamic Programming
 - [Davis' Staircase](CrackingTheCodingInterview/DavisStaircase)
 - [Coin Change](CrackingTheCodingInterview/CoinChange)
+- [Password Cracker](HackerRank/PasswordCracker)
 
 ## Bit Manipulation
 - [Lonely Integer](CrackingTheCodingInterview/LonelyInteger)
