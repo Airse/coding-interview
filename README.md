@@ -18,6 +18,7 @@
 ## Trees
 - [Is This a BST?](CrackingTheCodingInterview/IsThisABST)
 - [Contacts](CrackingTheCodingInterview/Contacts)
+- [Inorder Traversal](CrackingTheCodingInterview/InOrderTraversal)
 - [Postorder Traversal](CrackingTheCodingInterview/PostOrderTraversal)
 
 ## BFS/DFS
