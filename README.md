@@ -31,6 +31,7 @@
 - [Davis' Staircase](CrackingTheCodingInterview/DavisStaircase)
 - [Coin Change](CrackingTheCodingInterview/CoinChange)
 - [Password Cracker](HackerRank/PasswordCracker)
+- [Arithmetic Expressions](HackerRank/ArithmeticExpressions)
 
 ## Bit Manipulation
 - [Lonely Integer](CrackingTheCodingInterview/LonelyInteger)
