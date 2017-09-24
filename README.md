@@ -1,5 +1,5 @@
 ## Strings
-- Making Anagrams
+- [Making Anagrams](CrackingTheCodingInterview/MakingAnagrams)
 - Richie Rich
 - Sherlock and Valid String
 - Sherlock and Anagrams
@@ -9,7 +9,7 @@
 
 ## Sorting
 - Fraudulent Activity Notifications
-- - Lily's Homework
+- Lily's Homework
 
 ## Linked Lists and Stacks
 - Detect a Cycle
