@@ -1,34 +1,34 @@
 ## Strings
 - [Making Anagrams](CrackingTheCodingInterview/MakingAnagrams)
-- Richie Rich
-- Sherlock and Valid String
-- Sherlock and Anagrams
+- [Richie Rich](HackerRank/RichieRich)
+- [Sherlock and Valid String](HackerRank/SherlockAndValidString)
+- [Sherlock and Anagrams](HackerRank/SherlockAndAnagrams)
 
 ## Hash Tables
-- Ransom Note
+- [Ransom Note](CrackingTheCodingInterview/MakingAnagrams)
 
 ## Sorting
-- Fraudulent Activity Notifications
-- Lily's Homework
+- [Fraudulent Activity Notifications](HackerRank/FraudulentActivityNotifications)
+- [Lily's Homework](HackerRank/LilysHomework)
 
 ## Linked Lists and Stacks
-- Detect a Cycle
-- Balanced Brackets
+- [Detect a Cycle](CrackingTheCodingInterview/DetectACycle)
+- [Balanced Brackets](CrackingTheCodingInterview/BalancedBrackets)
 
 ## Trees
-- Is This a BST?
-- Contacts
+- [Is This a BST?](CrackingTheCodingInterview/IsThisABST)
+- [Contacts](CrackingTheCodingInterview/Contacts)
 
 ## BFS/DFS
-- Connected Cell in a Grid
-- Shortest Reach in a Graph
+- [Connected Cell in a Grid](CrackingTheCodingInterview/ConnectedCell)
+- [Shortest Reach in a Graph](CrackingTheCodingInterview/ShortestReachInGraph)
 
 ## Recursion and Dynamic Programming
-- Davis' Staircase
-- Coin Change
+- [Davis' Staircase](CrackingTheCodingInterview/DavisStaircase)
+- [Coin Change](CrackingTheCodingInterview/CoinChange)
 
 ## Bit Manipulation
-- Lonely Integer
+- [Lonely Integer](CrackingTheCodingInterview/LonelyInteger)
 
 ## Other
-- Primality
+- [Primality](CrackingTheCodingInterview/Primality)
