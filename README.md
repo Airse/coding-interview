@@ -18,6 +18,7 @@
 ## Trees
 - [Is This a BST?](CrackingTheCodingInterview/IsThisABST)
 - [Contacts](CrackingTheCodingInterview/Contacts)
+- [Preorder Traversal](CrackingTheCodingInterview/PreOrderTraversal)
 - [Inorder Traversal](CrackingTheCodingInterview/InOrderTraversal)
 - [Postorder Traversal](CrackingTheCodingInterview/PostOrderTraversal)
 
