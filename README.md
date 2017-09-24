@@ -34,5 +34,8 @@
 ## Bit Manipulation
 - [Lonely Integer](CrackingTheCodingInterview/LonelyInteger)
 
+## UFDS
+- [Journey to the Moon](HackerRank/JourneyToTheMoon)
+
 ## Other
 - [Primality](CrackingTheCodingInterview/Primality)
