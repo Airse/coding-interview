@@ -3,6 +3,7 @@ import java.util.*;
 import java.text.*;
 import java.math.*;
 
+// Runtime: O(n + m) where n is length of first string and m is length of second string
 public class Solution {
   private static final int NUM_LETTERS = 26;
 

@@ -1,5 +1,6 @@
 ## Strings
 - [Making Anagrams](CrackingTheCodingInterview/MakingAnagrams)
+- [Remove Duplicates](CrackingTheCodingInterview/RemoveDuplicates)
 - [Richie Rich](HackerRank/RichieRich)
 - [Sherlock and Valid String](HackerRank/SherlockAndValidString)
 - [Sherlock and Anagrams](HackerRank/SherlockAndAnagrams)
@@ -8,6 +9,7 @@
 - [Ransom Note](CrackingTheCodingInterview/MakingAnagrams)
 
 ## Sorting
+- [3Sum] (LeetCode/3Sum)
 - [Fraudulent Activity Notifications](HackerRank/FraudulentActivityNotifications)
 - [Lily's Homework](HackerRank/LilysHomework)
 

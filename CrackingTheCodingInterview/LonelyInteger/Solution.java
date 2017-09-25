@@ -1,5 +1,6 @@
 import java.util.*;
 
+// Runtime: O(n)
 public class Solution {
 
   public static int getLonelyInteger(int[] a) {

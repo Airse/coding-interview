@@ -3,6 +3,7 @@ import java.util.*;
 public class Solution {
   private TrieNode root = new TrieNode();
 
+  // Runtime: O(n) where n is the length of partial
   public int find(String partial) {
     return findInTrie(root, partial, 0);
   }
@@ -20,6 +21,7 @@ public class Solution {
     return findInTrie(child, partial, index + 1);
   }
 
+  // Runtime: O(n) where n is the length of name
   public void add(String name) {
     addToTrie(root, name, 0);
   }

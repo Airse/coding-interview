@@ -4,10 +4,10 @@ import java.text.*;
 import java.math.*;
 import java.util.regex.*;
 
+// Runtime: O(n)
 public class Solution {
   private static final char[] OPEN_BRACKETS = { '(', '[', '{' };
   private static final char[] CLOSE_BRACKETS = { ')', ']', '}' };
-
 
   private static boolean isOpenBracket(char bracket) {
     for (char b : OPEN_BRACKETS) {

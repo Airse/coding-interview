@@ -29,6 +29,7 @@ function main() {
     console.log(numWays(n));
   }
 
+  // Runtime: O(n)
   function numWays(n) {
     if (n < 0) {
       return 0;

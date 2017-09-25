@@ -1,6 +1,7 @@
 import java.io.*;
 import java.util.*;
 
+// Runtime: O(3^n)
 public class Solution {
   public static String solveOperators(long currentResult, int[] list, int i) {
     if (i >= list.length) {

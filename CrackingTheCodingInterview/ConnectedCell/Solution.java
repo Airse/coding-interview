@@ -1,5 +1,6 @@
 import java.util.*;
 
+// Runtime: O(n * m)
 public class Solution {
   private static final int[] ADJ_ROW = { -1, -1, -1, 0, 0, 1, 1, 1 };
   private static final int[] ADJ_COL = { -1, 0, 1, -1, 1, -1, 0, 1 };

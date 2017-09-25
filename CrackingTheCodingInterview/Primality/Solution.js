@@ -20,6 +20,7 @@ function readLine() {
 
 /////////////// ignore above this line ////////////////////
 
+// Runtime: O(sqrt(n))
 function isPrime(n) {
   if (n <= 1) {
     return false;

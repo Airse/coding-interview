@@ -1,3 +1,4 @@
+// Runtime: O(n)
 public class Solution {
   public boolean hasCycle(Node head) {
     // Tortoise and Hare Algorithm

@@ -20,6 +20,8 @@ function readLine() {
 
 /////////////// ignore above this line ////////////////////
 
+// Runtime: O(n + m) where n is number of words in ransom
+// and m is number of words in magazine
 function main() {
   var m_temp = readLine().split(' ');
   var m = parseInt(m_temp[0]);

@@ -1,4 +1,5 @@
 public class Solution {
+  // Runtime: O(nlogn)
   public boolean checkBST(Node root) {
     if (root == null) {
       return true;
@@ -11,6 +12,7 @@ public class Solution {
     return false;
   }
 
+  // Runtime: O(logn)
   public int getMax(Node root) {
     if (root == null) {
       return -1;
@@ -22,6 +24,7 @@ public class Solution {
     return root.data;
   }
 
+  // Runtime: O(logn)
   public int getMin(Node root) {
     if (root == null) {
       return 10000;

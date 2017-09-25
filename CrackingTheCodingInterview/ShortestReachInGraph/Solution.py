@@ -11,6 +11,7 @@ class Graph:
     self.adj_list[i].append(j)
     self.adj_list[j].append(i)
 
+  # Runtime: O(v + e)
   def find_all_distances(self, source):
     q = [{'id': source, 'distance': 0}]
     distances = [0 for i in range(self.n)]

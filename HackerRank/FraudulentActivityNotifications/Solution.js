@@ -20,6 +20,7 @@ function readLine() {
 
 /////////////// ignore above this line ////////////////////
 
+// Runtime: O(n) where n is the length of window
 function getMedian(window, d) {
   let isOdd = d % 2 === 1;
   let middle = d / 2;
@@ -46,6 +47,9 @@ function getMedian(window, d) {
   console.error('Something went wrong');
 }
 
+// Runtime: O(n * m)
+// where n is the length of expenditure
+// where m is the range of possible expenditures (in this case 0-200)
 function activityNotifications(expenditure, d) {
   let window = [];
   for (let i = 0; i <= 200; i++) {
