@@ -7,7 +7,7 @@ class Solution {
     List<String> result = new ArrayList<String>();
     if (toOpen == 0 && toClose == 0) {
       result.add("");
-      return;
+      return result;
     }
 
     // try to open
@@ -25,7 +25,7 @@ class Solution {
         result.add(")" + sub);
       }
     }
-    
+
     return result;
   }
 }
