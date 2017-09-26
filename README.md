@@ -8,7 +8,7 @@
 ## Hash Tables
 - [Ransom Note](CrackingTheCodingInterview/MakingAnagrams)
 
-## Binary Search
+## Search
 - [Find Minimum in Rotated Sorted Array](CrackingTheCodingInterview/FindMinimumRotatedSortedArray)
 - [Search in Rotated Sorted Array](CrackingTheCodingInterview/SearchRotatedSortedArray)
 
@@ -36,6 +36,7 @@
 ## Recursion and Dynamic Programming
 - [Davis' Staircase](CrackingTheCodingInterview/DavisStaircase)
 - [Coin Change](CrackingTheCodingInterview/CoinChange)
+- [Generate Parentheses](CrackingTheCodingInterview/GenerateParentheses)
 - [Password Cracker](HackerRank/PasswordCracker)
 - [Arithmetic Expressions](HackerRank/ArithmeticExpressions)
 
