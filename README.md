@@ -37,6 +37,7 @@
 - [Davis' Staircase](CrackingTheCodingInterview/DavisStaircase)
 - [Coin Change](CrackingTheCodingInterview/CoinChange)
 - [Generate Parentheses](CrackingTheCodingInterview/GenerateParentheses)
+- [Subsets](CrackingTheCodingInterview/Subsets)
 - [Password Cracker](HackerRank/PasswordCracker)
 - [Arithmetic Expressions](HackerRank/ArithmeticExpressions)
 
