@@ -21,6 +21,7 @@
 ## Linked Lists and Stacks
 - [Detect a Cycle](CrackingTheCodingInterview/DetectACycle)
 - [Balanced Brackets](CrackingTheCodingInterview/BalancedBrackets)
+- [Sort List](LeetCode/SortList)
 - [Merge K Sorted Lists](LeetCode/KSortedLists)
 - [Reverse Node in k-Group](LeetCode/ReverseNodesKGroup)
 - [Remove Nth Node from End of List](LeetCode/RemoveNthNodeFromEndOfList)
