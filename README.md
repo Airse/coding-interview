@@ -23,6 +23,7 @@
 - [Balanced Brackets](CrackingTheCodingInterview/BalancedBrackets)
 - [Merge K Sorted Lists](LeetCode/KSortedLists)
 - [Reverse Node in k-Group](LeetCode/ReverseNodesKGroup)
+- [Remove Nth Node from End of List](LeetCode/RemoveNthNodeFromEndOfList)
 
 ## Trees
 - [Is This a BST?](CrackingTheCodingInterview/IsThisABST)
