@@ -21,6 +21,8 @@
 ## Linked Lists and Stacks
 - [Detect a Cycle](CrackingTheCodingInterview/DetectACycle)
 - [Balanced Brackets](CrackingTheCodingInterview/BalancedBrackets)
+- [Merge K Sorted Lists](LeetCode/KSortedLists)
+- [Reverse Node in k-Group](LeetCode/ReverseNodesKGroup)
 
 ## Trees
 - [Is This a BST?](CrackingTheCodingInterview/IsThisABST)
