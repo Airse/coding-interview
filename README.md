@@ -4,11 +4,14 @@
 - [Richie Rich](HackerRank/RichieRich)
 - [Sherlock and Valid String](HackerRank/SherlockAndValidString)
 - [Sherlock and Anagrams](HackerRank/SherlockAndAnagrams)
+- [Substring with Concatenation of All Words](LeetCode/SubstringWithConcatenation)
+- [Minimum Window Substring](LeetCode/MinimumWindowSubstring)
 
 ## Hash Tables
 - [Ransom Note](CrackingTheCodingInterview/MakingAnagrams)
 - [LRU Cache](LeetCode/LRUCache)
 - [LFU Cache](LeetCode/LFUCache)
+
 ## Search
 - [Find Minimum in Rotated Sorted Array](CrackingTheCodingInterview/FindMinimumRotatedSortedArray)
 - [Search in Rotated Sorted Array](CrackingTheCodingInterview/SearchRotatedSortedArray)
