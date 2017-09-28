@@ -8,7 +8,7 @@
 ## Hash Tables
 - [Ransom Note](CrackingTheCodingInterview/MakingAnagrams)
 - [LRU Cache](LeetCode/LRUCache)
-
+- [LFU Cache](LeetCode/LFUCache)
 ## Search
 - [Find Minimum in Rotated Sorted Array](CrackingTheCodingInterview/FindMinimumRotatedSortedArray)
 - [Search in Rotated Sorted Array](CrackingTheCodingInterview/SearchRotatedSortedArray)
