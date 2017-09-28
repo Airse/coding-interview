@@ -46,6 +46,7 @@
 - [Coin Change](CrackingTheCodingInterview/CoinChange)
 - [Generate Parentheses](CrackingTheCodingInterview/GenerateParentheses)
 - [Subsets](CrackingTheCodingInterview/Subsets)
+- [N-Queens](CrackingTheCodingInterview/NQueens)
 - [Password Cracker](HackerRank/PasswordCracker)
 - [Arithmetic Expressions](HackerRank/ArithmeticExpressions)
 - [Longest Valid Parentheses](LeetCode/LongestValidParentheses)
