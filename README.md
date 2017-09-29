@@ -53,6 +53,7 @@
 - [Arithmetic Expressions](HackerRank/ArithmeticExpressions)
 - [Longest Valid Parentheses](LeetCode/LongestValidParentheses)
 - [Dungeon Game](LeetCode/DungeonGame)
+- [Decode Ways](LeetCode/DecodeWays)
 
 ## Bit Manipulation
 - [Lonely Integer](CrackingTheCodingInterview/LonelyInteger)
