@@ -18,7 +18,7 @@
 - [Search in Rotated Sorted Array](CrackingTheCodingInterview/SearchRotatedSortedArray)
 
 ## Sorting
-- [3Sum] (LeetCode/3Sum)
+- [3Sum](LeetCode/3Sum)
 - [Fraudulent Activity Notifications](HackerRank/FraudulentActivityNotifications)
 - [Lily's Homework](HackerRank/LilysHomework)
 
