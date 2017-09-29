@@ -40,6 +40,7 @@
 ## BFS/DFS
 - [Connected Cell in a Grid](CrackingTheCodingInterview/ConnectedCell)
 - [Shortest Reach in a Graph](CrackingTheCodingInterview/ShortestReachInGraph)
+- [Surrounded Regions](LeetCode/SurroundedRegions)
 
 ## Recursion and Dynamic Programming
 - [Davis' Staircase](CrackingTheCodingInterview/DavisStaircase)
