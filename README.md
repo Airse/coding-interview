@@ -43,6 +43,7 @@ Programming practice problems and solutions sorted by topic. Includes problems f
 - [Postorder Traversal](CrackingTheCodingInterview/PostOrderTraversal)
 - [Level-Order Traversal](CrackingTheCodingInterview/LevelOrderTraversal)
 - [Maximum Width of Binary Tree](LeetCode/MaximumWidthOfBinaryTree)
+- [Add One Row to Tree](LeetCode/AddOneRowToTree)
 
 ## BFS/DFS
 - [Connected Cell in a Grid](CrackingTheCodingInterview/ConnectedCell)
