@@ -9,6 +9,7 @@ Programming practice problems and solutions sorted by topic. Includes problems f
 - [Substring with Concatenation of All Words](LeetCode/SubstringWithConcatenation)
 - [Minimum Window Substring](LeetCode/MinimumWindowSubstring)
 - [Word Ladder](LeetCode/WordLadder)
+- [Find the Closest Palindrome](LeetCode/ClosestPalindrome)
 
 ## Hash Tables
 - [Ransom Note](CrackingTheCodingInterview/MakingAnagrams)
