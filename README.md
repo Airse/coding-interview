@@ -1,3 +1,5 @@
+Programming practice problems and solutions sorted by topic. Includes problems from Cracking the Coding Interview, HackerRank, and LeetCode.
+
 ## Strings
 - [Making Anagrams](CrackingTheCodingInterview/MakingAnagrams)
 - [Remove Duplicates](CrackingTheCodingInterview/RemoveDuplicates)
@@ -63,6 +65,7 @@
 
 ## UFDS
 - [Journey to the Moon](HackerRank/JourneyToTheMoon)
+- [RedundantConnect](LeetCode/RedundantConnection)
 
 ## Other
 - [Primality](CrackingTheCodingInterview/Primality)
