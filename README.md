@@ -42,6 +42,7 @@ Programming practice problems and solutions sorted by topic. Includes problems f
 - [Inorder Traversal](CrackingTheCodingInterview/InOrderTraversal)
 - [Postorder Traversal](CrackingTheCodingInterview/PostOrderTraversal)
 - [Level-Order Traversal](CrackingTheCodingInterview/LevelOrderTraversal)
+- [Maximum Width of Binary Tree](LeetCode/MaximumWidthOfBinaryTree)
 
 ## BFS/DFS
 - [Connected Cell in a Grid](CrackingTheCodingInterview/ConnectedCell)
