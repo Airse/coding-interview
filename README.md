@@ -6,6 +6,7 @@
 - [Sherlock and Anagrams](HackerRank/SherlockAndAnagrams)
 - [Substring with Concatenation of All Words](LeetCode/SubstringWithConcatenation)
 - [Minimum Window Substring](LeetCode/MinimumWindowSubstring)
+- [Word Ladder](LeetCode/WordLadder)
 
 ## Hash Tables
 - [Ransom Note](CrackingTheCodingInterview/MakingAnagrams)
