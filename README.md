@@ -62,6 +62,7 @@ Programming practice problems and solutions sorted by topic. Includes problems f
 - [Longest Valid Parentheses](LeetCode/LongestValidParentheses)
 - [Dungeon Game](LeetCode/DungeonGame)
 - [Decode Ways](LeetCode/DecodeWays)
+- [Edit Distance](LeetCode/EditDistance)
 
 ## Bit Manipulation
 - [Lonely Integer](CrackingTheCodingInterview/LonelyInteger)
