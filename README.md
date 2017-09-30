@@ -15,6 +15,7 @@ Programming practice problems and solutions sorted by topic. Includes problems f
 - [Ransom Note](CrackingTheCodingInterview/MakingAnagrams)
 - [LRU Cache](LeetCode/LRUCache)
 - [LFU Cache](LeetCode/LFUCache)
+- [Group Anagrams](LeetCode/GroupAnagrams)
 
 ## Heaps
 - [Smallest Range](LeetCode/SmallestRange)
