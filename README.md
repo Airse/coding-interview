@@ -10,6 +10,7 @@ Programming practice problems and solutions sorted by topic. Includes problems f
 - [Minimum Window Substring](LeetCode/MinimumWindowSubstring)
 - [Word Ladder](LeetCode/WordLadder)
 - [Find the Closest Palindrome](LeetCode/ClosestPalindrome)
+- [Valid Parenthesis String](LeetCode/ValidParenthesisString)
 
 ## Hash Tables
 - [Ransom Note](CrackingTheCodingInterview/MakingAnagrams)
