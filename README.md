@@ -24,11 +24,13 @@ Programming practice problems and solutions sorted by topic. Includes problems f
 ## Search
 - [Find Minimum in Rotated Sorted Array](CrackingTheCodingInterview/FindMinimumRotatedSortedArray)
 - [Search in Rotated Sorted Array](CrackingTheCodingInterview/SearchRotatedSortedArray)
+- [Kth Largest Element in Array](LeetCode/KthLargestElement)
 
 ## Sorting
 - [3Sum](LeetCode/3Sum)
 - [Fraudulent Activity Notifications](HackerRank/FraudulentActivityNotifications)
 - [Lily's Homework](HackerRank/LilysHomework)
+- [Wiggle Sort II](LeetCode/WiggleSort2)
 
 ## Linked Lists and Stacks
 - [Detect a Cycle](CrackingTheCodingInterview/DetectACycle)
