@@ -67,14 +67,16 @@ Programming practice problems and solutions sorted by topic. Includes problems f
 - [Dungeon Game](LeetCode/DungeonGame)
 - [Decode Ways](LeetCode/DecodeWays)
 - [Edit Distance](LeetCode/EditDistance)
+- [Longest Palindromic Subsequence](LeetCode/LongestPalindromicSubsequence)
 
 ## Bit Manipulation
 - [Lonely Integer](CrackingTheCodingInterview/LonelyInteger)
 - [Maximum Product of Word Lengths](LeetCode/MaximumProductWordLength)
+- [Total Hamming Distance](LeetCode/TotalHammingDistance)
 
 ## UFDS
 - [Journey to the Moon](HackerRank/JourneyToTheMoon)
-- [RedundantConnect](LeetCode/RedundantConnection)
+- [Redundant Connection](LeetCode/RedundantConnection)
 
 ## Other
 - [Primality](CrackingTheCodingInterview/Primality)
