@@ -1,5 +1,8 @@
 Programming practice problems and solutions sorted by topic. Includes problems from Cracking the Coding Interview, HackerRank, and LeetCode.
 
+## Arrays
+- [Move Zeros](LeetCode/MoveZeros)
+
 ## Strings
 - [Making Anagrams](CrackingTheCodingInterview/MakingAnagrams)
 - [Remove Duplicates](CrackingTheCodingInterview/RemoveDuplicates)
@@ -28,6 +31,7 @@ Programming practice problems and solutions sorted by topic. Includes problems f
 
 ## Sorting
 - [3Sum](LeetCode/3Sum)
+- [4Sum](LeetCode/4Sum)
 - [Fraudulent Activity Notifications](HackerRank/FraudulentActivityNotifications)
 - [Lily's Homework](HackerRank/LilysHomework)
 - [Wiggle Sort II](LeetCode/WiggleSort2)
