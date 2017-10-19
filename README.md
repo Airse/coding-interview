@@ -59,6 +59,7 @@ Programming practice problems and solutions sorted by topic. Includes problems f
 - [Connected Cell in a Grid](CrackingTheCodingInterview/ConnectedCell)
 - [Shortest Reach in a Graph](CrackingTheCodingInterview/ShortestReachInGraph)
 - [Surrounded Regions](LeetCode/SurroundedRegions)
+- [Minesweeper](LeetCode/Minesweeper)
 
 ## Recursion and Dynamic Programming
 - [Davis' Staircase](CrackingTheCodingInterview/DavisStaircase)
