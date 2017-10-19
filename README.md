@@ -23,6 +23,7 @@ Programming practice problems and solutions sorted by topic. Includes problems f
 
 ## Heaps
 - [Smallest Range](LeetCode/SmallestRange)
+- [Design Twitter](LeetCode/DesignTwitter)
 
 ## Search
 - [Find Minimum in Rotated Sorted Array](CrackingTheCodingInterview/FindMinimumRotatedSortedArray)
