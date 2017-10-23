@@ -14,12 +14,14 @@ Programming practice problems and solutions sorted by topic. Includes problems f
 - [Word Ladder](LeetCode/WordLadder)
 - [Find the Closest Palindrome](LeetCode/ClosestPalindrome)
 - [Valid Parenthesis String](LeetCode/ValidParenthesisString)
+- [Serialize and Deserialize Binary Tree](LeetCode/SerializeDeserializeBT)
 
 ## Hash Tables
 - [Ransom Note](CrackingTheCodingInterview/MakingAnagrams)
 - [LRU Cache](LeetCode/LRUCache)
 - [LFU Cache](LeetCode/LFUCache)
 - [Group Anagrams](LeetCode/GroupAnagrams)
+- [Insert Delete GetRandom O(1) - Duplicates allowed](https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/description/)
 
 ## Heaps
 - [Smallest Range](LeetCode/SmallestRange)
