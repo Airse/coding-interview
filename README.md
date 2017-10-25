@@ -77,6 +77,7 @@ Programming practice problems and solutions sorted by topic. Includes problems f
 - [Edit Distance](LeetCode/EditDistance)
 - [Longest Palindromic Subsequence](LeetCode/LongestPalindromicSubsequence)
 - [Distinct Subsequences](LeetCode/DistinctSubsequences)
+- [Palindrome Partitioning](LeetCode/PalindromePartitioning)
 
 ## Bit Manipulation
 - [Lonely Integer](CrackingTheCodingInterview/LonelyInteger)
