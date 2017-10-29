@@ -47,15 +47,17 @@ Programming practice problems and solutions sorted by topic. Includes problems f
 - [Reverse Node in k-Group](LeetCode/ReverseNodesKGroup)
 - [Remove Nth Node from End of List](LeetCode/RemoveNthNodeFromEndOfList)
 
-## Trees and Tries
+## Binary Trees
 - [Is This a BST?](CrackingTheCodingInterview/IsThisABST)
-- [Contacts](CrackingTheCodingInterview/Contacts)
 - [Preorder Traversal](CrackingTheCodingInterview/PreOrderTraversal)
 - [Inorder Traversal](CrackingTheCodingInterview/InOrderTraversal)
 - [Postorder Traversal](CrackingTheCodingInterview/PostOrderTraversal)
 - [Level-Order Traversal](CrackingTheCodingInterview/LevelOrderTraversal)
 - [Maximum Width of Binary Tree](LeetCode/MaximumWidthOfBinaryTree)
 - [Add One Row to Tree](LeetCode/AddOneRowToTree)
+
+## Tries
+- [Contacts](CrackingTheCodingInterview/Contacts)
 - [Add and Search Word](LeetCode/AddAndSearchWord)
 
 ## BFS/DFS
